@@ -16,3 +16,10 @@ body
 {
   background-size: cover ;
 }
+
+Canvas
+{
+  border: 5px dashed blueviolet;
+  border-radius: 20px;
+  margin-top: 90px;
+}
